@@ -1,6 +1,6 @@
-# Proyecto: POO
+# Proyecto: ED
 
-Platilla base para ejercicios de la materia de POO
+Platilla base para ejercicios de la materia de ED
 
 ## Diagrama de clases
 [Editor en línea](https://mermaid.live/)
